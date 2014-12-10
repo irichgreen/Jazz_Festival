@@ -1,0 +1,8 @@
+---
+title: "Jarasum Jazz Festival"
+author: "Jin-Hoon An"
+date: "Wednesday, December 10, 2014"
+output: html_document
+---
+
+이 소스코드는 자라섬 재즈 페스티벌 관람객 분석 및 예측에 관한 분석 스크립트이다..
