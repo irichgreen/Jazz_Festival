@@ -1,0 +1,34 @@
+wave,year,artist,sum_GT,avg_GT,artist_like_reg_1,youtube_like,youtube_view,youtube_clips,sex,age,debut,main performance,genre_1
+1,2004,Mike Stern,2036,3.6,Italy,2589,2798774,72000,M,1953,1976,instrumental,guitar
+1,2004,Dennis Chambers,1264,2.24,Argentina,2286,5238265,44600,M,1959,1983,instrumental,drum
+1,2004,Greg Howe,1225,2.17,Italy,6692,5159832,28300,M,1963,1982,instrumental,guitar
+2,2005,tommy emmanuel,6396,11.32,Australia,28906,33135430,88700,M,1955,1979,vocal,folk
+2,2005,Mike Stern,2036,3.6,Italy,2589,2798774,72000,M,1953,1976,vocal,jazz
+2,2005,the bad plus,1038,1.84,U.S,2466,2049718,74200,M,1973,2000,vocal,jazz
+3,2006,Victor Wooten,4060,7.19,Chille,9897,21104314,116000,M,1964,1980,instrumental,Bass Guitar
+3,2006,Maceo Parker,1821,3.22,France,7983,7112272,42400,M,1943,1962,instrumental,Saxophone
+3,2006,Joe Zawinul,1077,1.91,Netherland,3397,3277389,25100,M,1932,1949,instrumental,Piano
+4,2007,Stacey Kent,2060,3.65,Portugal,4699,5415333,33500,W,1968,1997,vocal,vocal jazz
+4,2007,Stanley Clarke,2070,3.66,U.S,7053,8623592,88800,M,1951,1973,vocal,jazz
+4,2007,Mike Stern,2036,3.6,Italy,2589,2798774,72000,M,1953,1976,instrumental,guitar
+5,2008,John Scofield ,2643,4.68,Denmark,5047,4902843,85900,M,1951,1977,instrumental,guitar
+5,2008, Jojo Mayer ,835,1.48,Swiss ,3369,5089836,34100,M,1962,1981,instrumental,drum
+5,2008,John Abercrombie,230,0.41,UK ,720,970177,21500,M,1943,1969,instrumental,guitar
+6,2009,Richard Galliano,516,0.91,France ,4401,3927620,43900,M,1949,1964,instrumental,accordion 
+6,2009,Dee Dee Bridgewater,825,1.46,France ,2693,2585382,35600,W,1949,1966,vocal,vocal jazz 
+6,2009,Enrico Rava,253,0.45,Italy ,612,827368,18700,M,1938,1960,instrumental,trumpet 
+7,2010,Candy Dulfer,2766,4.9,Netherland,34095,18308970,61600,W,1969,1990,instrumental,saxophone
+7,2010,Stanley Jordan,1037,1.84,Brazil,6518,4665375,38900,M,1959,1982,instrumental,guitar
+7,2010,Kyle Eastwood,514,0.91,France,387,594506,8540,M,1968,1990,instrumental,guitar
+8,2011,Tower of Power,4707,8.33,Denmark,2143,6139135,60200,M,1946,1968,vocal,jazz
+8,2011,Terence Blanchard,344,0.61,U.S,2148,1340039,14600,M,1962,1982,vocal,modern jazz
+8,2011,Kurt Rosenwinkel,728,1.29,Italy,2886,1613262,42900,M,1970,1996,instrumental,guitar
+9,2012,Duke Ellington,11123,19.69,U.S,16931,12293783,251000,M,1899,1914,instrumental,Piano
+9,2012,John Scofield,2643,4.68,Denmark,5047,4902843,85900,M,1951,1977,instrumental,Guitar
+9,2012,Abdullah Ibrahim,670,1.19,South africa,1690,1060595,9660,M,1934,1955,instrumental,Piano
+10,2013,Erik Truffaz,509,0.9,France,2659,1829471,13600,M,1960,1994,vocal,Jazz fusion
+10,2013,preservation hall jazz band,790,1.4,U.S,1278,1393642,56800,M,1934,1963,vocal,jazz
+10,2013,anna maria jopek,3235,5.73,U.S,2332,3262653,11200,W,1970,1997,vocal,world music
+11,2014,The Yellowjackets,2719,4.81,U.S,647,1318655,35500,M,1977,1981,vocal,Jazz fusion
+11,2014,Allan Holdsworth,2027,3.59,Sweden,4863,3923829,31200,M,1946,1969,vocal,Jazz fusion
+11,2014,Dominic Miller,268,0.47,Italy,7055,1998773,13100,M,1960,1995,instrumental,guitar
